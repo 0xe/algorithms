@@ -2,6 +2,7 @@
 #define MERGE_H
 
 #include <stdlib.h>
+#include <stdint.h>
 #include <stdio.h>
 
 void print_elts(int64_t *elts, size_t size)

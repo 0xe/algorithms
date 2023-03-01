@@ -1,4 +1,5 @@
 #include <math.h>
+#include <stdint.h>
 
 void swap(int64_t *elts, size_t l, size_t r)
 {
